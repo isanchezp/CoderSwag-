@@ -1,7 +1,8 @@
-package com.ivan.section6
+package com.ivan.section6.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ivan.section6.R
 
 class MainActivity : AppCompatActivity() {
 
